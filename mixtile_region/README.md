@@ -8,11 +8,15 @@ MIXTILE Z-Wave Region add-on to change Z-Wave gateway Region.
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
+**NOTE:** Make sure no other add-on or integration is using the radio. In
+particular disable the Z-Wave JS add-on and the Z-Wave service.
+
 ## About
-1.Select the physical serial port address of your gateway
-2.Select the area you need to use
-3.Save the Configuration and Start
-4.The log displays whether the Settings are successful
+1.Stop Z-Wave Addons and Z-Wave service.
+1.Select the physical serial port address of your gateway.
+2.Select the area you need to use.
+3.Save the Configuration and Start.
+4.The log displays whether the Settings are successful.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
