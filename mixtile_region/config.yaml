@@ -1,5 +1,5 @@
-name: "MIXTILE Z-wave Region Configurator"
-description: "MIXTILE Z-wave Region Configurator add-on!"
+name: "MIXTILE Z-Wave Region Configurator"
+description: "MIXTILE Z-Wave Region Configurator add-on!"
 version: "1.0.0"
 slug: "mixtile_region"
 arch:

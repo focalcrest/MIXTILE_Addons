@@ -1,6 +1,6 @@
-# Home Assistant Add-on: MIXTILE Z-wave Region
+# Home Assistant Add-on: MIXTILE Z-Wave Region
 
-MIXTILE Z-wave Region add-on to change Z-wave gateway Region.
+MIXTILE Z-Wave Region add-on to change Z-Wave gateway Region.
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
