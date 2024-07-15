@@ -12,11 +12,11 @@ MIXTILE Z-Wave Region add-on to change Z-Wave gateway Region.
 particular disable the Z-Wave JS add-on and the Z-Wave service.
 
 ## About
-1.Stop Z-Wave Addons and Z-Wave service.\r\n
-1.Select the physical serial port address of your gateway.\r\n
-2.Select the area you need to use.\r\n
-3.Save the Configuration and Start.\r\n
-4.The log displays whether the Settings are successful.\r\n
+1.Stop Z-Wave Addons and Z-Wave service.
+2.Select the physical serial port address of your gateway.
+3.Select the area you need to use.
+4.Save the Configuration and Start.
+5.The log displays whether the Settings are successful.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

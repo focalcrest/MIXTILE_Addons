@@ -8,13 +8,17 @@ Follow these steps to get the add-on installed on your system:
 2. Find the "Silicon Labs Flasher" add-on and click it.
 3. Click on the "INSTALL" button.
 
+## Get Firmware
+
+All the edge2 firmware will update on https://github.com/focalcrest/Mixtile-EDGE2-Firmware.Choose 
+Select the firmware that suits you and just copy the RAW link.
+
+
 ## How to use
 
-The add-on needs a Silicon Labs based wireless module accessible through a
-serial port (like the module on Home Assistant Yellow, Home Assistant
-SkyConnect/ZBT-1 or other USB based wireless adapters).
-
-1. Select the correct `device` in the add-on configuration tab and press `Save`.
+1. Select the correct `device` in the add-on configuration tab.
+2. Get the required firmware link on GitHub,paste the link into the Firmware URL.
+3. Press Save.
 2. Start the add-on.
 
 ## Configuration
@@ -29,14 +33,6 @@ Add-on configuration:
 | firmware_url       | Custom URL to flash firmware from                      |
 
 ## Support
-
-Got questions?
-
-You have several options to get them answered:
-
-- The [Home Assistant Discord Chat Server][discord].
-- The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
 
 In case you've found a bug, please [open an issue on our GitHub][issue].
 
