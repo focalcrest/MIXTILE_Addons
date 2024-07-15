@@ -10,7 +10,7 @@ Follow these steps to get the add-on installed on your system:
 
 ## Get Firmware
 
-All the edge2 firmware will update on https://github.com/focalcrest/Mixtile-EDGE2-Firmware.Choose 
+All the edge2 firmware will update on https://github.com/focalcrest/Mixtile-EDGE2-Firmware
 Select the firmware that suits you and just copy the RAW link.
 
 
