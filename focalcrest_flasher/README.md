@@ -18,8 +18,8 @@ Multiprotocol add-on.
 ## About
 
 This add-on allows you to flash firmwares using the Gecko Bootloader file format
-(gbl). By default it comes with firmware for Home Assistant SkyConnect/ZBT-1 and
-Home Assistant Yellow to flash Zigbee.
+(gbl). By default it comes with firmware for Mixtile Zigbee Z-Wave 2-in-1 module 
+to flash Zigbee.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
